@@ -4198,6 +4198,12 @@ function create_fragment$5(ctx) {
 				site_nav: [
 					{
 						"link": { "url": "/goal", "label": "gOal" }
+					},
+					{
+						"link": {
+							"url": "https://stOneskull.xyz",
+							"label": "stOneskull"
+						}
 					}
 				]
 			}
