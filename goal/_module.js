@@ -4161,12 +4161,12 @@ function create_fragment$5(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"size": 11
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"size": 52
 				},
-				title: "hOme",
-				description: "data"
+				title: "gOal",
+				description: "timeward"
 			}
 		});
 
@@ -4180,12 +4180,12 @@ function create_fragment$5(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"size": 11
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"size": 52
 				},
-				title: "hOme",
-				description: "data",
+				title: "gOal",
+				description: "timeward",
 				logo: {
 					"image": {
 						"alt": "",
@@ -4196,13 +4196,6 @@ function create_fragment$5(ctx) {
 					"title": "stOneskull.info"
 				},
 				site_nav: [
-					{
-						"link": {
-							"url": "/",
-							"label": "hOme",
-							"active": false
-						}
-					},
 					{
 						"link": { "url": "/goal", "label": "gOal" }
 					}
@@ -4220,12 +4213,12 @@ function create_fragment$5(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"size": 11
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"size": 52
 				},
-				title: "hOme",
-				description: "data",
+				title: "gOal",
+				description: "timeward",
 				content: {
 					"html": "<p>Enjoy :)</p>",
 					"markdown": "Enjoy :)\n\n"
@@ -4243,12 +4236,12 @@ function create_fragment$5(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"size": 11
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"size": 52
 				},
-				title: "hOme",
-				description: "data",
+				title: "gOal",
+				description: "timeward",
 				nav: [
 					{
 						"link": {
@@ -4260,11 +4253,17 @@ function create_fragment$5(ctx) {
 				social: [
 					{
 						"icon": "mdi:twitter",
-						"link": { "url": "/", "label": "Twitter" }
+						"link": {
+							"url": "https://twitter.com/stOneskull",
+							"label": "Twitter"
+						}
 					},
 					{
-						"icon": "mdi:linkedin",
-						"link": { "url": "/", "label": "Linkedin" }
+						"icon": "mdi:github",
+						"link": {
+							"url": "https://github.com/stOneskull",
+							"label": "Github"
+						}
 					}
 				]
 			}
@@ -4280,12 +4279,12 @@ function create_fragment$5(ctx) {
 				},
 				image: {
 					"alt": "",
-					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689719427287OIP%20(1).jpeg",
-					"size": 11
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/024ce8b7-c530-464d-b25f-cc94b8481f03/1689587573858495276_timothy-leary_1.jpeg",
+					"size": 52
 				},
-				title: "hOme",
-				description: "data"
+				title: "gOal",
+				description: "timeward"
 			}
 		});
 

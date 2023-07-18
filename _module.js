@@ -4197,13 +4197,6 @@ function create_fragment$5(ctx) {
 				},
 				site_nav: [
 					{
-						"link": {
-							"url": "/",
-							"label": "hOme",
-							"active": false
-						}
-					},
-					{
 						"link": { "url": "/goal", "label": "gOal" }
 					}
 				]
@@ -4260,11 +4253,17 @@ function create_fragment$5(ctx) {
 				social: [
 					{
 						"icon": "mdi:twitter",
-						"link": { "url": "/", "label": "Twitter" }
+						"link": {
+							"url": "https://twitter.com/stOneskull",
+							"label": "Twitter"
+						}
 					},
 					{
-						"icon": "mdi:linkedin",
-						"link": { "url": "/", "label": "Linkedin" }
+						"icon": "mdi:github",
+						"link": {
+							"url": "https://github.com/stOneskull",
+							"label": "Github"
+						}
 					}
 				]
 			}
