@@ -4220,8 +4220,8 @@ function create_fragment$5(ctx) {
 				title: "gOal",
 				description: "timeward",
 				content: {
-					"html": "<p>Enjoy :)</p>",
-					"markdown": "Enjoy :)\n\n"
+					"html": "<p>A place to access data, to use for data science.</p><p>One of these days..</p>",
+					"markdown": "A place to access data, to use for data science.\n\nOne of these days..\n\n"
 				}
 			}
 		});
