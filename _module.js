@@ -2290,12 +2290,7 @@ function create_fragment$5(ctx) {
 						}
 					}
 				],
-				social: [
-					{
-						"link": { "url": "/", "label": "Twitter" },
-						"icon": "mdi:twitter"
-					}
-				]
+				social: []
 			}
 		});
 
